@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel de zanahoria",
+    "descripcion": "Pastel de zanahoria tamaño mediano",
+    "categoria": "Pasteleria",
+    "proveedor": "Panadería1",
+    "costo": 215,
+    "peso": 500,
+    "fecha_creacion": "2024-03-04T00:50:42.344Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Galletas de granola",
+    "descripcion": "Paquete de 10 piezas de galletas de avena con nueves y granola tamaño grande",
+    "categoria": "Galletas",
+    "proveedor": "Tienda2",
+    "costo": 145,
+    "peso": 500,
+    "fecha_creacion": "2024-03-04T00:53:56.946Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Pan de muerto",
+    "descripcion": "Tradicional pan de muerto en cajas de 6 piezas",
+    "categoria": "Panaderia",
+    "proveedor": "Ariel Arreola",
+    "costo": 110,
+    "peso": 220,
+    "fecha_creacion": "2024-03-04T00:58:17.653Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Donas glaseadas",
+    "descripcion": "Caja con 12 donas glaseadas",
+    "categoria": "Panaderia",
+    "proveedor": "Panadería1",
+    "costo": 115,
+    "peso": 400,
+    "fecha_creacion": "2024-03-04T02:13:39.979Z"
+  }
+]
