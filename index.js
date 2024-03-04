@@ -85,6 +85,10 @@ app.post('/productos/:id', (req, res) => {
     res.status(400).json({ error: "Los POST no llevan parámetros!! verifica por favor tu ruta y el tipo de petición que estás realizando" });
 });
 
+app.get('/', (req, res) => {
+    res.status(200).send("Api de Productos.<p>Get: <li>/productos</li> <li>/productos:id</li> <li>/productos/categorias/:cat</li> <p>Post:<li>/productos</li><p>Parámetros obligatorios: <li>nombre</li><li>descripcion</li><li>categoria</li> <li>proveedor(tu nombre)</li><li>costo</li><li>peso (en g)</li>");
+});
+
 app.listen(port, () => {
     console.log(`Servidor ejecutandose en puerto ${port}`);
 });

@@ -38,5 +38,15 @@
     "costo": 115,
     "peso": 400,
     "fecha_creacion": "2024-03-04T02:13:39.979Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Rosca de reyes de avellana",
+    "descripcion": "Rosca de reyes con decoración y relleno sabor avellana",
+    "categoria": "Panaderia",
+    "proveedor": "Ariel Arreola",
+    "costo": 355,
+    "peso": 500,
+    "fecha_creacion": "2024-03-04T06:02:51.041Z"
   }
 ]
