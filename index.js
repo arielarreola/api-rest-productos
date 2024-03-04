@@ -69,6 +69,10 @@ app.get('/productos', (req, res) => {
   });
 });
 
+app.get('/', (req, res) => {
+  res.status(200).send("Rutas con soporte: /productos, /productos/:id, /productos/categoria/:cat, POST/productos")
+});
+
 //buscar un producto por ID
 app.get('/productos/:id', (req, res) => {
   const { id } = req.params;
