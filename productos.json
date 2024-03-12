@@ -1,82 +1,132 @@
 [
-  {
-    "id": 1,
-    "nombre": "Pastel de zanahoria",
-    "descripcion": "Pastel de zanahoria tamaño mediano",
-    "categoria": "Pasteleria",
-    "proveedor": "Panadería1",
-    "costo": 215,
-    "peso": 500,
-    "fecha_creacion": "2024-03-04T00:50:42.344Z"
-  },
-  {
-    "id": 2,
-    "nombre": "Galletas de granola",
-    "descripcion": "Paquete de 10 piezas de galletas de avena con nueves y granola tamaño grande",
-    "categoria": "Galletas",
-    "proveedor": "Tienda2",
-    "costo": 145,
-    "peso": 500,
-    "fecha_creacion": "2024-03-04T00:53:56.946Z"
-  },
-  {
-    "id": 3,
-    "nombre": "Pan de muerto",
-    "descripcion": "Tradicional pan de muerto en cajas de 6 piezas",
-    "categoria": "Panaderia",
-    "proveedor": "Ariel Arreola",
-    "costo": 110,
-    "peso": 220,
-    "fecha_creacion": "2024-03-04T00:58:17.653Z"
-  },
-  {
-    "id": 4,
-    "nombre": "Donas glaseadas",
-    "descripcion": "Caja con 12 donas glaseadas",
-    "categoria": "Panaderia",
-    "proveedor": "Panadería1",
-    "costo": 115,
-    "peso": 400,
-    "fecha_creacion": "2024-03-04T02:13:39.979Z"
-  },
-  {
-    "id": 5,
-    "nombre": "Rosca de reyes de avellana",
-    "descripcion": "Rosca de reyes con decoración y relleno sabor avellana",
-    "categoria": "Panaderia",
-    "proveedor": "Ariel Arreola",
-    "costo": 355,
-    "peso": 500,
-    "fecha_creacion": "2024-03-04T06:02:51.041Z"
-  },
-  {
-    "id": 6,
-    "nombre": "Cafe",
-    "descripcion": "Cafe amargo",
-    "categoria": "Cafeteria",
-    "proveedor": "Elias",
-    "costo": 54,
-    "peso": 250,
-    "fecha_creacion": "2024-03-12T00:21:22.577Z"
-  },
-  {
-    "id": 7,
-    "nombre": "Gelatina",
-    "descripcion": "Es una gelatina",
-    "categoria": "Gelatinas",
-    "proveedor": "Mario_Gaytan",
-    "costo": 10,
-    "peso": 300,
-    "fecha_creacion": "2024-03-12T01:43:11.838Z"
-  },
-  {
-    "id": 8,
-    "nombre": "Gelatina Yogur",
-    "descripcion": "Es una gelatina de Yogurt",
-    "categoria": "Gelatinas",
-    "proveedor": "Mario_Gaytan",
-    "costo": 10,
-    "peso": 300,
-    "fecha_creacion": "2024-03-12T01:45:37.795Z"
-  }
+	{
+		"id": 1,
+		"nombre": "Pastel de zanahoria",
+		"descripcion": "Pastel de zanahoria tamaño mediano",
+		"categoria": "Pasteleria",
+		"proveedor": "Panadería1",
+		"costo": 215,
+		"peso": 500,
+		"fecha_creacion": "2024-03-04T00:50:42.344Z"
+	},
+	{
+		"id": 2,
+		"nombre": "Galletas de granola",
+		"descripcion": "Paquete de 10 piezas de galletas de avena con nueves y granola tamaño grande",
+		"categoria": "Galletas",
+		"proveedor": "Tienda2",
+		"costo": 145,
+		"peso": 500,
+		"fecha_creacion": "2024-03-04T00:53:56.946Z"
+	},
+	{
+		"id": 3,
+		"nombre": "Pan de muerto",
+		"descripcion": "Tradicional pan de muerto en cajas de 6 piezas",
+		"categoria": "Panaderia",
+		"proveedor": "Ariel Arreola",
+		"costo": 110,
+		"peso": 220,
+		"fecha_creacion": "2024-03-04T00:58:17.653Z"
+	},
+	{
+		"id": 4,
+		"nombre": "Donas glaseadas",
+		"descripcion": "Caja con 12 donas glaseadas",
+		"categoria": "Panaderia",
+		"proveedor": "Panadería1",
+		"costo": 115,
+		"peso": 400,
+		"fecha_creacion": "2024-03-04T02:13:39.979Z"
+	},
+	{
+		"id": 5,
+		"nombre": "Rosca de reyes de avellana",
+		"descripcion": "Rosca de reyes con decoración y relleno sabor avellana",
+		"categoria": "Panaderia",
+		"proveedor": "Ariel Arreola",
+		"costo": 355,
+		"peso": 500,
+		"fecha_creacion": "2024-03-04T06:02:51.041Z"
+	},
+	{
+		"id": 6,
+		"nombre": "Cafe",
+		"descripcion": "Cafe amargo",
+		"categoria": "Cafeteria",
+		"proveedor": "Elias",
+		"costo": 54,
+		"peso": 250,
+		"fecha_creacion": "2024-03-12T00:21:22.577Z"
+	},
+	{
+		"id": 7,
+		"nombre": "Gelatina",
+		"descripcion": "Es una gelatina",
+		"categoria": "Gelatinas",
+		"proveedor": "Mario_Gaytan",
+		"costo": 10,
+		"peso": 300,
+		"fecha_creacion": "2024-03-12T01:43:11.838Z"
+	},
+	{
+		"id": 8,
+		"nombre": "Gelatina Yogur",
+		"descripcion": "Es una gelatina de Yogurt",
+		"categoria": "Gelatinas",
+		"proveedor": "Mario_Gaytan",
+		"costo": 10,
+		"peso": 300,
+		"fecha_creacion": "2024-03-12T01:45:37.795Z"
+	},
+	{
+		"id": 9,
+		"nombre": "Latte",
+		"descripcion": "Latte con chocolate y galletas.",
+		"categoria": "Otros",
+		"proveedor": "rosarito",
+		"costo": 1,
+		"peso": 400,
+		"fecha_creacion": "2024-03-12T04:26:36.815Z"
+	},
+	{
+		"id": 10,
+		"nombre": "Cafe Latte",
+		"descripcion": "Cafe latte servido con chocolate y crema batida",
+		"categoria": "Otros",
+		"proveedor": "Sofia Bañuelos",
+		"costo": 32,
+		"peso": 40,
+		"fecha_creacion": "2024-03-12T04:37:13.685Z"
+	},
+	{
+		"id": 11,
+		"nombre": "Papas a la francesa",
+		"descripcion": "No son de repostería pero lo puse porque se me antojaron",
+		"categoria": "Otros",
+		"proveedor": "anonimooo",
+		"costo": 78,
+		"peso": 1000,
+		"fecha_creacion": "2024-03-12T05:34:03.269Z"
+	},
+	{
+		"id": 12,
+		"nombre": "Cafe Latte",
+		"descripcion": "Cafe Latte, servido con galletas de chocolate y crema batida",
+		"categoria": "Otros",
+		"proveedor": "David Arechederra",
+		"costo": 2,
+		"peso": 600,
+		"fecha_creacion": "2024-03-12T06:04:24.269Z"
+	},
+	{
+		"id": 13,
+		"nombre": "Cappuccino",
+		"descripcion": "Cappuccino, servido con chocolate y crema batida",
+		"categoria": "Otros",
+		"proveedor": "David Arechederra",
+		"costo": 3,
+		"peso": 800,
+		"fecha_creacion": "2024-03-12T06:05:14.165Z"
+	}
 ]
