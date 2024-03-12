@@ -48,5 +48,35 @@
     "costo": 355,
     "peso": 500,
     "fecha_creacion": "2024-03-04T06:02:51.041Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Cafe",
+    "descripcion": "Cafe amargo",
+    "categoria": "Cafeteria",
+    "proveedor": "Elias",
+    "costo": 54,
+    "peso": 250,
+    "fecha_creacion": "2024-03-12T00:21:22.577Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Gelatina",
+    "descripcion": "Es una gelatina",
+    "categoria": "Gelatinas",
+    "proveedor": "Mario_Gaytan",
+    "costo": 10,
+    "peso": 300,
+    "fecha_creacion": "2024-03-12T01:43:11.838Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Gelatina Yogur",
+    "descripcion": "Es una gelatina de Yogurt",
+    "categoria": "Gelatinas",
+    "proveedor": "Mario_Gaytan",
+    "costo": 10,
+    "peso": 300,
+    "fecha_creacion": "2024-03-12T01:45:37.795Z"
   }
 ]
